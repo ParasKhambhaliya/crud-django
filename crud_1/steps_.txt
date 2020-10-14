@@ -1,0 +1,6 @@
+CRUD   project om database
+
+create
+read
+update
+delete
